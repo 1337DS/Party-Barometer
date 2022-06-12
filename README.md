@@ -7,7 +7,8 @@ Additional scraping for exams on universities and consider the influence to crea
 - Clubs / Event Scraping (evtl. Facebook)
 - Algorithmus Pseudocode
 - Prüfungstermine HS Mannheim
-- Studierende Uni Mannheim (Bounding Boxes in PDF)
+- Prüfungstermine Uni Mannheim erst- und Zweittermine
+- Studierende Uni Mannheim (Bounding Boxes in PDF) ✔️
 - Präsi
 - evtl. App
 

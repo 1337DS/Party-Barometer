@@ -28,3 +28,15 @@ Plus:
 - Anzahl Events
 - Monatsanfang/Ende ?
 - Partyfaktor der Fakultät (generell/ Anzahl w Studenten)
+
+## APP
+ Es gibt verschiedene Möglichkeiten eine App mit Python-Code zu programmieren. 
+ Bibliotheken die auf C basieren werden jedoch noch nicht unterstützt.
+ 1. Beeware / Briefcase 
+    https://docs.beeware.org/en/latest/
+ 2. Flutter/pyFlut/Flet
+    https://flet.dev/
+    https://dev.to/yash_makan/how-to-run-python-code-in-your-flutter-app-with-pyflut-hgc
+ 3. Kivy
+    https://kivy.org/doc/stable/guide/packaging-android.html
+ 

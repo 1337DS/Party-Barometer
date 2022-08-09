@@ -5,10 +5,9 @@ Additional scraping for exams on universities and consider the influence to crea
 
 ## TODO
 - Algorithmus Code
-- Prüfungstermine HS Mannheim ❌
+- Prüfungstermine HS Mannheim ❌ -> benötigt Einloggdaten
 - Prüfungstermine Uni Mannheim erst- und Zweittermine ✔️
 - Studierende Uni Mannheim (Bounding Boxes in PDF) ✔️
-- Präsi 
 - App
 - Wetter 
 - Dokumentation/Anleitung

@@ -32,8 +32,14 @@ Plus:
 ## APP
  Es gibt verschiedene Möglichkeiten eine App mit Python-Code zu programmieren. 
  Bibliotheken die auf C basieren werden jedoch noch nicht unterstützt.
+ Hier unsere Erfahrungen damit:
+ 
  1. Beeware / Briefcase 
     https://docs.beeware.org/en/latest/
+    --> Hello World Anleitung hat nicht funktionert,  
+    *RuntimeError: Failed to initialize Python.Runtime.dll
+     Unable to start application 'helloworld'*
+
  2. Flutter/pyFlut/Flet
     https://flet.dev/
     https://dev.to/yash_makan/how-to-run-python-code-in-your-flutter-app-with-pyflut-hgc

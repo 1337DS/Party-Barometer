@@ -4,13 +4,14 @@ Additional scraping for exams on universities and consider the influence to crea
 
 
 ## TODO
-- Clubs / Event Scraping (evtl. Facebook)
-- Algorithmus Pseudocode
-- Prüfungstermine HS Mannheim
-- Prüfungstermine Uni Mannheim erst- und Zweittermine
+- Algorithmus Code
+- Prüfungstermine HS Mannheim ❌
+- Prüfungstermine Uni Mannheim erst- und Zweittermine ✔️
 - Studierende Uni Mannheim (Bounding Boxes in PDF) ✔️
-- Präsi
-- evtl. App
+- Präsi 
+- App
+- Wetter 
+- Dokumentation/Anleitung
 
 
 ## Algorithmus:

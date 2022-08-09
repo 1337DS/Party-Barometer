@@ -10,7 +10,7 @@ Additional scraping for exams on universities and consider the influence to crea
 - Studierende Uni Mannheim (Bounding Boxes in PDF) ✔️
 - App
 - Wetter 
-- Dokumentation/Anleitung
+- Dokumentation/Anleitung ✔️
 
 
 ## Algorithmus:

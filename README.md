@@ -8,8 +8,8 @@ Additional scraping for exams on universities and consider the influence to crea
 - Prüfungstermine HS Mannheim ❌ -> benötigt Einloggdaten
 - Prüfungstermine Uni Mannheim erst- und Zweittermine ✔️
 - Studierende Uni Mannheim (Bounding Boxes in PDF) ✔️
-- App
-- Wetter 
+- App✔️
+- Wetter ✔️
 - Dokumentation/Anleitung ✔️
 
 
@@ -25,7 +25,7 @@ Minus:
 
 Plus:
 
-- Anzahl Events
+- Anzahl Events✔️
 - Monatsanfang/Ende ? ✔️
 - Partyfaktor der Fakultät (generell/ Anzahl w Studenten)
 

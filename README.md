@@ -15,18 +15,18 @@ Additional scraping for exams on universities and consider the influence to crea
 
 ## Algorithmus:
 
-Ausgangswert 100 (alle Studenten verfügbar und partywillig)
+Ausgangswert 100 (alle Studenten verfügbar und partywillig) ✔️
 
 Minus:
 
-- Prüfungsbelastungsfaktor (Anzahl Studenten x Prüfungen)
-- Schlechtwetterfaktor (Schneckenhof, Hafen 49)
+- Prüfungsbelastungsfaktor (Anzahl Studenten x Prüfungen) ✔️
+- Schlechtwetterfaktor (Schneckenhof, Hafen 49)✔️
 - Sommerpause berücksichtigen ??
 
 Plus:
 
 - Anzahl Events
-- Monatsanfang/Ende ?
+- Monatsanfang/Ende ? ✔️
 - Partyfaktor der Fakultät (generell/ Anzahl w Studenten)
 
 ## APP
@@ -45,4 +45,5 @@ Plus:
     https://dev.to/yash_makan/how-to-run-python-code-in-your-flutter-app-with-pyflut-hgc
  3. Kivy
     https://kivy.org/doc/stable/guide/packaging-android.html
- 
+ 4. Dash ✔️
+    https://plotly.com/dash/

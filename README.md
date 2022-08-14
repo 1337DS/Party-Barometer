@@ -47,3 +47,6 @@ Plus:
     https://kivy.org/doc/stable/guide/packaging-android.html
  4. Dash ✔️
     https://plotly.com/dash/
+    Für Juypter wurde noch eine weitere Bibliothek benötigt --> https://github.com/plotly/jupyter-dash
+    
+Zur Erklärung was noch alles erledigt wurde hier ein Video: https://www.youtube.com/watch?v=to4NcTJmxsI
